@@ -1,0 +1,67 @@
+#menu
+{
+	width: 15%;
+	height: 1500px;
+	background-color: black;
+
+}
+
+#contenido
+{
+	width: 80%;
+	height: 1500px;
+	float:right;
+	background: gray;
+	color: black;
+	font-size: 18px;
+	color: white;
+}
+
+#menu,#contenido
+{
+	display: inline-block;
+	vertical-align: top;
+}
+
+#contenido p
+{
+	text-align: justify;
+	color: white;
+	font-size: 20px;
+	padding: 0px 100px;
+
+}
+#contenido h2
+{
+	text-align: center;
+	color:black;
+}
+#contacto
+{
+	top: 50px;
+	position: absolute;
+	left: 400px;
+	
+
+}
+ul a
+{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+}
+ul li
+{
+	list-style-type: none;
+}
+
+form
+{
+	width: 100%;
+}
+#bienvenidos
+{
+
+ font-style:  italic;
+
+
